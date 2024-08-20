@@ -1,0 +1,4 @@
+1 - adicionar regra de responsividade do layout.
+2 - hover buttons.
+3 - languague picker.
+4 - theme changer dark/light.
